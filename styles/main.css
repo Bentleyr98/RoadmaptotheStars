@@ -58,6 +58,39 @@ form{
 
 }
 
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 90%;
+    margin-left: 5%;
+    }
+
+.cards section {
+    border: 1px solid black;
+    background-color: #D3D3D3;
+    text-align: center;
+    width: 300px;
+    margin: 8px;    
+    padding: 0;
+    }
+
+.cards section img{
+    width: 200px;
+    height: auto;
+}
+
+
+    .cards section div {
+        display: flex;
+        height: 160px;
+        align-items: center;
+        justify-content: center;
+    }
+
 header a img{
     width: 100px;
     height: 100px;
