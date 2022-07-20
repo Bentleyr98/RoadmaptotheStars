@@ -1,0 +1,34 @@
+{
+    "constellations": [
+      {
+        "name": "Cassiopeia",
+        "type": "",
+        "hemisphere": "",
+        "img": "images/Cassiopeia.png"
+      },
+      {
+        "name": "Cepheus",
+        "type": "",
+        "hemisphere": "",
+        "img": "images/Cepheus.png"
+      },
+      {
+        "name": "Lyra",
+        "type": "",
+        "hemisphere": "",
+        "img": "images/Lyra.png"
+      }, 
+      {
+        "name": "Ursa Major",
+        "type": "",
+        "hemisphere": "",
+        "img": "images/UrsaMajor.png"
+      },
+      {
+        "name": "Ursa Minor",
+        "type": "",
+        "hemisphere": "",
+        "img": "images/UrsaMinor.png"
+      }
+    ]
+  }
